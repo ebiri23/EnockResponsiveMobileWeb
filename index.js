@@ -1,5 +1,5 @@
 alert('Carousel for Computer and Accordion for mobile')
-alert('Enock Balthazar;email: edcbal17@gmail.com or esciencepi17@gmail.com')
+alert('Enock Balthazar;email: edcbal17@gmail.com or esciencepi16@gmail.com')
 prompt('(#Joke)If you are not a front web developer; Type your name:')
 
 var pos = document.getElementsByClassName("position");
